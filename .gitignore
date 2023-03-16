@@ -1,0 +1,16 @@
+
+*.v2
+Domain/obj/Debug/net6.0/Domain.pdb
+.vs/
+Domain/obj/
+Application/obj/
+Infrastucture/obj/
+WebApi/obj/
+Application/bin/
+WebApi/bin/
+Infrastucture/bin/
+Presentation/obj/
+Persistance/obj/
+Presentation/bin/
+Persistance/bin/
+Domain/bin/
